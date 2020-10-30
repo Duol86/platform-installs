@@ -1,5 +1,7 @@
 # platform-installs
 platform-installs is a  colllection of scripts I can use for the three main platform (Linux, Windows, MacOS) to install "the essentials" for a computer.
+
+
 the main packages installed are spotify, vlc, steam, obs, gimp, minecraft, chromium, git, notepad++ and protonvpn.
 All the packages are installed with various package managers for different platforms.
 
