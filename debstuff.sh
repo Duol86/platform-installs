@@ -25,3 +25,5 @@ sudo apt install wget -y
 wget https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.exe
 
 wine npp.7.9.Installer.exe
+
+sudo apt-get install openjdk-8-jre
