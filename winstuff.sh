@@ -5,3 +5,5 @@ iex ((New-Object System.Net.Webclient).DownloadString('https://git.io/debloat'))
 choco install spotify powertoys protonvpn tor notepadplusplus vlc minecraft steam chromium obs git gimp
 
 choco install kdenlive
+
+choco install jre8
