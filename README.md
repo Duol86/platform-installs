@@ -13,3 +13,7 @@ You can run these scripts in Linux and MacOS by downloading the zip file of the 
 
 
 XCODE AND XCODE COMMAND LINE TOOLS IS REQUIRED FOR MAC USERS RUNNING THIS SCRIPT
+
+
+# Update Notes:
+v1.1: Added Java runtime and OpenJDK to the packages installed
