@@ -15,3 +15,5 @@ sudo pacman -S gnome-software
 wget https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.exe
 
 wine npp.7.9.Installer.exe
+
+sudo pacman -S jre-openjdk
