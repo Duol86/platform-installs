@@ -12,6 +12,8 @@ sudo pip3 install protonvpn-cli
 
 sudo dnf install gnome-software -y
 
+sudo dnf install kdenlive -y
+
 sudo dnf install wine-stable -y
 
 sudo dnf install wget -y
