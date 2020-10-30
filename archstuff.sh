@@ -1,5 +1,7 @@
 sudo pacman -S vlc steam obs-studio gimp chromium git lutris wine-stable wget
 
+yay -S kdenlive
+
 sudo pacman -S openvpn dialog python-pip python-setuptools
 
 sudo pip3 install protonvpn-cli
