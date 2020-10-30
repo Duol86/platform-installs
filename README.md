@@ -10,3 +10,6 @@ The package managers used are: APT (Debain Linux), Pacman (Arch Linux), Yay (Arc
 
 
 You can run these scripts in Linux and MacOS by downloading the zip file of the repo or cloning the repository. on Windows 10 it is done via opening powershell as administrator and inputting this command: iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JTSpF'))
+
+
+XCODE IS REQUIRED FOR MAC USERS RUNNING THIS SCRIPT
