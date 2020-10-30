@@ -18,6 +18,8 @@ sudo apt update -y
 
 sudo apt install lutris -y
 
+sudo apt install kdenlive -y
+
 sudo apt install wget -y
 
 wget https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.exe
