@@ -41,3 +41,7 @@ sudo make install
 cd
 
 sudo port install kdenlive
+
+wget https://javadl.oracle.com/webapps/download/AutoDL?BundleId=243728_61ae65e088624f5aaa0b1d2d801acb16
+
+./jre-8u271-macosx-x64.dmg
