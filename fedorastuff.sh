@@ -21,3 +21,5 @@ sudo dnf install wget -y
 wget https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.exe
 
 wine npp.7.9.Installer.exe
+
+su -c "yum install java-1.8.0-openjdk"
