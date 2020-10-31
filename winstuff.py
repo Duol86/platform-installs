@@ -8,4 +8,4 @@ os.system("Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.Service
 print("Using this tool, you can debloat your windows installation. Edit the white/blacklist to change what is removed.
 iex ((New-Object System.Net.Webclient).DownloadString('https://git.io/debloat'))
 
-os.system("choco install spotify powertoys protonvpn tor notepadplusplus vlc minecraft steam chromium obs git gimp kdenlive jre8")
+os.system("choco install discord spotify powertoys protonvpn tor notepadplusplus vlc minecraft steam chromium obs git gimp kdenlive jre8")
