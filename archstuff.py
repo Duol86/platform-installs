@@ -1,8 +1,6 @@
 #!/usr/bin/python
 
-name = "program-installs"
-
-print("Welcome to the " + name + " scripts!")
+print("Welcome to the platform-installs scripts!")
 
 import os
 os.system("sudo pacman -S discord vlc steam obs-studio gimp chromium git lutris wine-stable wget openvpn dialog python-pip python-setuptools flatpak gnome-software jre-openjdk")
