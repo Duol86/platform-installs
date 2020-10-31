@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+import os
 os.system("sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm")
 os.system("sudo dnf install xorg-xll-drv-nvidia-cuda spotify vlc steam lutris gimp chromium git openvpn dialog python3-pip python3-setuptools gnome-software kdenlive wine-stable wget")
 os.system("sudo pip3 install protonvpn-cli")
