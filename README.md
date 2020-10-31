@@ -17,4 +17,5 @@ XCODE AND XCODE COMMAND LINE TOOLS IS REQUIRED FOR MAC USERS RUNNING THIS SCRIPT
 
 # Update Notes:
 v2.0: Changed the scripts to the python 3 programming language
+
 v1.1: Added Java runtime and OpenJDK to the packages installed
