@@ -4,7 +4,7 @@ print("Welcome to the platform-install scripts")
 
 import os
 os.system("/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"")
-os.system("brew cask install spotify vlc steam obs gimp minecraft chromium protonvpn wine-stable")
+os.system("brew cask install discord spotify vlc steam obs gimp minecraft chromium protonvpn wine-stable")
 os.system("brew install git wget")
 os.system("wget https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v7.9/npp.7.9.Installer.exe")
 os.system("wine npp.7.9.Installer.exe")
