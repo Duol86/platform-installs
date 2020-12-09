@@ -14,6 +14,7 @@ You can run these scripts in Linux and MacOS by downloading the zip file of the 
 
 XCODE AND XCODE COMMAND LINE TOOLS IS REQUIRED FOR MAC USERS RUNNING THIS SCRIPT
 
+PYTHON 3 IS REQUIRED FOR ALL USERS RUNNING THIS SCRIPT
 
 # Update Notes:
 v2.0: Changed the scripts to the python 3 programming language
