@@ -12,11 +12,11 @@ The package managers used are: APT (Debain Linux), Pacman (Arch Linux), Yay (Arc
 You can run these scripts in Linux and MacOS by downloading the zip file of the repo or cloning the repository. on Windows 10 it is done via opening powershell as administrator and inputting this command: iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JTSpF'))
 
 # Dependecies
-XCODE COMMAND LINE TOOLS IS REQUIRED FOR MAC USERS RUNNING THIS SCRIPT*
+XCODE COMMAND LINE TOOLS IS REQUIRED FOR MAC USERS RUNNING THIS SCRIPT
 
 PYTHON 3 IS REQUIRED FOR ALL USERS RUNNING THIS SCRIPT
 
-* xcode command line tools will be installed automatically through the brew installation script
+*xcode command line tools will be installed automatically through the brew installation script
 # Update Notes:
 v3.2: Removed kdenlive (installed through macports) from macstuff.py (because it required a full xcode installation)
 
