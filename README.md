@@ -7,6 +7,7 @@ All the packages are installed with various package managers for different platf
 
 
 The package managers used are: APT (Debain Linux), Pacman (Arch Linux), Yay (Arch Linux AUR), Flatpak (Linux), Chocolatey (Windows 7-10), Brew (MacOS).
+Wget is also used for the np++ install
 
 
 You can run these scripts in Linux and MacOS by downloading the zip file of the repo or cloning the repository. on Windows 10 it is done via opening powershell as administrator and inputting this command: iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JTSpF'))
