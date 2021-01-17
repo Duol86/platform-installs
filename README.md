@@ -13,6 +13,9 @@ Wget is also used for the np++ install and the macos java install.
 
 You can run these scripts in Linux and MacOS by downloading the zip file of the repo or cloning the repository. on Windows 10 it is done via opening powershell as administrator and inputting this command: iex ((New-Object System.Net.WebClient).DownloadString('https://git.io/JTSpF'))
 
+# IMPORTANT
+This is a script that I would not reccomend people use, it is created mainly for me to test out new thing I have learned in python and expand my knowledge.
+
 # Dependecies
 XCODE COMMAND LINE TOOLS IS REQUIRED FOR MAC USERS RUNNING THIS SCRIPT*
 
