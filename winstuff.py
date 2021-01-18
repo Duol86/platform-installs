@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 print("Welcome to the platform-installs scripts")
 
 import os
