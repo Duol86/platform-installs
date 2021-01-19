@@ -23,6 +23,9 @@ PYTHON 3 IS REQUIRED FOR ALL USERS RUNNING THIS SCRIPT
 
 *xcode command line tools will be installed automatically through the brew installation script
 
+# Soon to come!
+I am currently working on a gui for these scripts and hope to combine them all into one single script!
+
 # Update Notes:
 v3.2: Removed kdenlive (installed through macports) from macstuff.py (because it required a full xcode installation)
 
